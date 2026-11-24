@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carniceria-don-corte.vercel.app/sitemap.xml
